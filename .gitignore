@@ -1,0 +1,5 @@
+debian/stsbl-iserv-file-distribution-bridge-lock/*
+debian/stsbl-iserv-file-distribution-bridge-lock.substvars
+debian/stsbl-iserv-file-distribution-bridge-lock.debhelper.log
+debian/files
+debian/debhelper-build-stamp

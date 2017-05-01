@@ -1,11 +1,11 @@
-Source: stsbl-iserv-file-distribution-bridge-exam
+Source: stsbl-iserv-file-distribution-bridge-lock
 Section: misc
 Priority: extra
 Maintainer: Stadtteilschule Blankenese <repository@stsbl.de>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 
-Package: stsbl-iserv-file-distribution-bridge-exam
+Package: stsbl-iserv-file-distribution-bridge-lock
 Architecture: all
 Depends: iserv-portal
 Description: Dateiverteilung für IServ - Rechnersperre-Datenbankbrücke
